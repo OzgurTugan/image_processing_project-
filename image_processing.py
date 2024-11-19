@@ -134,3 +134,5 @@ def apply_filters_to_image(
         axes[idx, 3].set_title("Histogram Karşılaştırması")
     plt.tight_layout()
     plt.show()
+
+apply_filters_to_image()
