@@ -10,7 +10,7 @@ A Python-based image processing tool that applies customizable filters with Z-sc
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/image-processing-filters.git   
+   git clone https://github.com/OzgurTugan/image_processing_project-.git  
 2. Navigate to the project directory:
     ```bash
    cd image-processing-filters
