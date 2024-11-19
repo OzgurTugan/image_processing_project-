@@ -35,8 +35,3 @@ A Python-based image processing tool that applies customizable filters with Z-sc
     gabor_params=(31, 3.0, np.pi / 4, 8.0, 0.8),
     fourier_mask_size=50,
    )
-   
-## Example
-1. An example image is provided in the example_images/ directory. To test the function, run:
-   ```bash
-   apply_filters_to_image("example_images/example_image.jpg")
