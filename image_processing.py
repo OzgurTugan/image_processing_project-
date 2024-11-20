@@ -135,4 +135,4 @@ def apply_filters_to_image(
     plt.tight_layout()
     plt.show()
 
-apply_filters_to_image()
+apply_filters_to_image(example_images/1.jpeg)
