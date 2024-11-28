@@ -27,7 +27,7 @@ A Python-based image processing tool that applies customizable filters with Z-sc
    process_image("path_to_your_image.jpg")
 3. Customize filter parameters:
    ```bash
-process_image_with_parameters(
+   process_image_with_parameters(
     "example_image.jpg",
     gaussian_params=(3, 3, 0.5),
     median_ksize=7,
